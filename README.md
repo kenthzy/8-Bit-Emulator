@@ -1,9 +1,14 @@
 # 8-Bit Microprocessor Emulator (ESP32)
 
+
+
 A hardware-based 8-bit microprocessor emulator built on ESP32 microcontrollers.  
 This project focuses on core CPU fundamentals: registers, instruction execution, arithmetic, and logic operations, all exposed through direct user interaction.
 
 The system trades complexity for clarity. Every instruction is visible, deliberate, and constrained to classic 8-bit behavior.
+
+<img width="480" height="360" alt="494817266_673571051972172_4024366124376740731_n" src="https://github.com/user-attachments/assets/6dc21d79-1454-4da2-bd74-5045761d748e" />
+<img width="480" height="360" alt="494691862_1793637937849260_3353310645954634374_n" src="https://github.com/user-attachments/assets/c894e90b-adcd-4a52-9034-2455f7c1ba9b" />
 
 
 ## What This Is
